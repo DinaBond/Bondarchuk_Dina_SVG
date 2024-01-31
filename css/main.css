@@ -1,0 +1,17 @@
+#main-container {
+    width: 900px;
+    height: auto;
+    margin: 0px auto;
+}
+
+.container {
+    border: 10px solid brown;
+    display: flex;
+    margin-bottom: 20px;
+    background-color: bisque;
+}
+
+.center {
+    text-align: center;
+    color: brown;
+}
