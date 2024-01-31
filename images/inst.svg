@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="inst" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 487" style="enable-background:new 0 0 612 487;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EB008B;stroke:#EB008B;stroke-miterlimit:10;}
+	.st1{fill:#EB008B;stroke:#EB008B;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+
+	 #lines {
+		transform: scale(0);
+	}
+
+	#inst:hover #lines {
+		transform: scale(1);
+	}
+
+</style>
+<script>// select elements you want to interact with first
+      let thePath= document.querySelector('#inst');
+
+      // functions always go in the middle
+      function logMyId() {        
+        console.log("instagram");
+      }
+
+      // event handling at the bottom
+      document.addEventListener('click', logMyId);
+		</script>
+<g id="icon_00000059282947462411726440000013187000019948126128_">
+	<circle class="st0" cx="282.6" cy="240.7" r="107.4"/>
+	
+		<image style="overflow:visible;" width="512" height="512" id="inst-icon" xlink:href="../../../../Downloads/instagram (1).png"  transform="matrix(0.252 0 0 0.252 218.1239 176.1609)">
+	</image>
+</g>
+<g id="lines">
+	<line class="st1" x1="282.6" y1="92.5" x2="282.6" y2="29.2"/>
+	<line class="st1" x1="282.6" y1="457.8" x2="282.6" y2="394.5"/>
+	<line class="st1" x1="131.6" y1="247" x2="68.4" y2="247"/>
+	<line class="st1" x1="496.9" y1="247" x2="433.7" y2="247"/>
+	<line class="st1" x1="183.9" y1="361.4" x2="142.6" y2="409.2"/>
+	<line class="st1" x1="422.7" y1="84.9" x2="381.4" y2="132.7"/>
+	<line class="st1" x1="175.8" y1="140.2" x2="131.1" y2="95.5"/>
+	<line class="st1" x1="434.2" y1="398.6" x2="389.4" y2="353.8"/>
+</g>
+</svg>
